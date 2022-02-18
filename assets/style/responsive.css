@@ -1,0 +1,110 @@
+
+
+@media only screen and (max-width: 9992px){
+    .card-row .card{
+        margin-top: 15px;
+    }
+    
+        .tab .carousel-indicators button{
+            width: 30%;
+            font-size: 12px;
+        }
+}
+
+@media screen and (max-width: 768px){
+    .main__title{
+        font-size: 32px;
+    }
+    
+    .card-wrapper .card-container{
+        width: 100%;
+    }
+
+    .service-row{
+        padding: 0 7%;
+    }
+
+    .tab .tab-info p{
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .navbar-md .navbar-brand{
+        padding-left: 10px;
+        font-size: 18px;
+    }
+    
+    .nav{
+        margin-right: 10px;
+    }
+    
+    .nav-link{
+        font-size: 12px;
+    }
+    
+    .main{
+        padding-top: 250px;
+    }
+    .bird-container--one {
+        -webkit-animation-duration: 7s;
+                animation-duration: 7s;
+        -webkit-animation-delay: 0;
+                animation-delay: 0;
+      }
+      .bird-container--two {
+        -webkit-animation-duration: 8s;
+                animation-duration: 8s;
+        -webkit-animation-delay: 1s;
+                animation-delay: 1s;
+      }
+      .bird-container--three {
+        -webkit-animation-duration: 6.6s;
+                animation-duration: 6.6s;
+        -webkit-animation-delay: 9.5s;
+                animation-delay: 9.5s;
+      }
+      .bird-container--four {
+        -webkit-animation-duration: 8s;
+                animation-duration: 8s;
+        -webkit-animation-delay: 10.25s;
+                animation-delay: 10.25s;
+      }
+    .main__title,
+    .container__title, .tab__title,
+    .service__title{
+        font-size: 24px;
+    }
+
+    .btn-sign{
+        width: 80%;
+    } 
+    
+    .btn-learn{
+        width: 80%;
+        margin-top: 20px;
+    }
+
+    .card-row .card{
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    .container__text, .tab__text,.service__text{
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .tab .container{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    footer .container{
+        width: 100%;
+    }
+
+    .footer__title{
+        text-align: center;
+    }
+}
