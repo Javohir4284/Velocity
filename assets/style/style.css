@@ -450,7 +450,7 @@ body{
 
 .tab .carousel-indicators button{
     width: 25%;
-    height: 21px;
+    padding: 5px;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #FFFFFF;

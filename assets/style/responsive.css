@@ -5,10 +5,10 @@
         margin-top: 15px;
     }
     
-        .tab .carousel-indicators button{
-            width: 30%;
-            font-size: 12px;
-        }
+    .tab .carousel-indicators button{
+        width: 30%;
+        font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 768px){
@@ -44,9 +44,6 @@
         font-size: 12px;
     }
     
-    .main{
-        padding-top: 250px;
-    }
     .bird-container--one {
         -webkit-animation-duration: 7s;
                 animation-duration: 7s;
@@ -99,6 +96,11 @@
     .container__text, .tab__text,.service__text{
         font-size: 14px;
         margin-bottom: 20px;
+    }
+
+    .tab .carousel-indicators button{
+        font-size: 10px;
+        width: 34%;
     }
 
     .tab .container{
